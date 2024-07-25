@@ -8,15 +8,15 @@ In the competitive global corporate environment, accurate retail demand forecast
 
 ## Key Points
 
-Macroeconomic Variables Used:
-Consumer Price Index (CPI)
-Consumer Sentiment Index (ICS)
-Unemployment Rate
+- Macroeconomic Variables Used:
+- Consumer Price Index (CPI)
+- Consumer Sentiment Index (ICS)
+- Unemployment Rate
 
 Methodology:
 Train a Long Short-Term Memory (LSTM) model using both time series sales data and macroeconomic variables.
 
 Findings:
-The inclusion of macroeconomic variables improves the explanatory power of the model.
-The LSTM model incorporating macroeconomic data outperforms models that do not include this information.
-Demonstrates strong potential for industry application with improved forecasting capability.
+- The inclusion of macroeconomic variables improves the explanatory power of the model.
+- The LSTM model incorporating macroeconomic data outperforms models that do not include this information.
+- Demonstrates strong potential for industry application with improved forecasting capability.
