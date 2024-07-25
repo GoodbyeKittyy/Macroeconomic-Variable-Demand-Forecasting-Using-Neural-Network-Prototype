@@ -1,6 +1,22 @@
-# Retail-Demand-Forecasting-Using-Neural-Networks-and-Macro-Variables
+# Macroeconomic-Variable-Demand-Forecasting-Using-Neural-Network
+
 ### This repository contains code for implementatoin of a research paper published in Journal of Mathematics and Statistics Studies. The article is available at the following link:
 https://al-kindipublisher.com/index.php/jmss/article/view/5598
 
-### Abstract
-With the growing competition among firms in the globalized corporate environment and considering the complexity of demand forecasting approaches, there has been a large literature on retail demand forecasting utilizing various approaches. However, the current literature largely relies on micro variables as inputs, thereby ignoring the influence of macroeconomic conditions on households’ demand for retail products. In this study, I incorporate external macroeconomic variables such as Consumer Price Index (CPI), Consumer Sentiment Index (ICS), and unemployment rate along with time series data of retail products’ sales to train a Long Short-Term Memory (LSTM) model for predicting future demand. The inclusion of macroeconomic conditions in the predictive model provides greater explanatory power. As anticipated, the developed model, including this external macroeconomic information, outperforms the model developed without this macroeconomic information, thereby demonstrating strong potential for industry application with improved forecasting capability.
+##Abstract
+In the competitive global corporate environment, accurate retail demand forecasting is crucial. Traditional forecasting methods often rely solely on micro variables, neglecting macroeconomic conditions that affect household demand for retail products. This study enhances forecasting models by incorporating external macroeconomic variables such as the Consumer Price Index (CPI), Consumer Sentiment Index (ICS), and the unemployment rate alongside time series data of retail sales.
+
+## Key Points
+
+Macroeconomic Variables Used:
+Consumer Price Index (CPI)
+Consumer Sentiment Index (ICS)
+Unemployment Rate
+
+Methodology:
+Train a Long Short-Term Memory (LSTM) model using both time series sales data and macroeconomic variables.
+
+Findings:
+The inclusion of macroeconomic variables improves the explanatory power of the model.
+The LSTM model incorporating macroeconomic data outperforms models that do not include this information.
+Demonstrates strong potential for industry application with improved forecasting capability.
