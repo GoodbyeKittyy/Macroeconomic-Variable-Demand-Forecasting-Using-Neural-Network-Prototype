@@ -1,6 +1,6 @@
 # Macroeconomic-Variable-Demand-Forecasting-Using-Neural-Network
 
-### This repository contains code for implementatoin of a research paper published in Journal of Mathematics and Statistics Studies. The article is available at the following link:
+### This repository contains code for implementation of a research paper published in Journal of Mathematics and Statistics Studies. The article is available at the following link:
 https://al-kindipublisher.com/index.php/jmss/article/view/5598
 
 ## Abstract
